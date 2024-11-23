@@ -1,0 +1,23 @@
+
+  body{
+    background-color: black;
+    color: white;
+  }
+   input{
+    background-color: black;
+    padding: 10px;
+    border:none;
+    color: white;
+    border-bottom: 1px solid white;
+  }
+  ::placeholder{
+    color: white;
+}
+#r1{
+    width: 300px;
+}
+.box{
+    justify-items: center;
+    margin: 200px;
+}
+
